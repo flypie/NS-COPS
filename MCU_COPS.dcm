@@ -3,7 +3,7 @@ EESchema-DOCLIB  Version 2.0
 $CMP COP420L
 D 4MHz, 1kB ROM, 256B SRAM,  DIP-28
 K National 8bit Microcontroller COPS
-F http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2486-8-bit-avr-microcontroller-atmega8_l_datasheet.pdf
+F https://www.digchip.com/datasheets/parts/datasheet/321/COP420-pdf.php
 $ENDCMP
 #
 #End Doc Library
